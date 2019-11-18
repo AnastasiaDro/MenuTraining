@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MenuTraining</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_action1">MyAction1</string>
+    <string name="my_action2">myAction2</string>
+</resources>
